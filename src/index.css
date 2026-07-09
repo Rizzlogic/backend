@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+body {
+  margin: 0;
+  background: #f0f0f0;
+  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.neo-box {
+  border: 4px solid #000;
+  box-shadow: 5px 5px 0px #000;
+}
+
+.neo-btn {
+  border: 3px solid #000;
+  box-shadow: 3px 3px 0px #000;
+  transition: all 0.1s ease;
+}
+
+.neo-btn:hover {
+  transform: translate(2px, 2px);
+  box-shadow: none;
+}
