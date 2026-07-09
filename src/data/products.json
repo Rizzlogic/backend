@@ -1,47 +1,74 @@
 [
   {
     "id": 1,
-    "name": "Organic Avocado",
-    "price": 3.99,
-    "category": "Fruits & Vegetables",
+    "name": "Alpukat Organik",
+    "price": 25000,
+    "category": "Makanan",
     "rating": 4.5,
     "stock": 24,
     "image": "https://images.unsplash.com/photo-1523049673857-eb18f1d7b578?w=400"
   },
   {
     "id": 2,
-    "name": "Free Range Eggs (12pk)",
-    "price": 5.49,
-    "category": "Dairy & Eggs",
+    "name": "Telur Ayam Kampung (12 btr)",
+    "price": 45000,
+    "category": "Makanan",
     "rating": 4.8,
     "stock": 60,
     "image": "https://images.unsplash.com/photo-1582722872445-44dc5f7e3c8f?w=400"
   },
   {
     "id": 3,
-    "name": "Sourdough Bread",
-    "price": 6.99,
-    "category": "Bakery",
+    "name": "Roti Sourdough Premium",
+    "price": 55000,
+    "category": "Makanan",
     "rating": 4.2,
     "stock": 0,
     "image": "https://images.unsplash.com/photo-1549931319-a5457534675f?w=400"
   },
   {
     "id": 4,
-    "name": "Whole Milk (1 gal)",
-    "price": 4.29,
-    "category": "Dairy & Eggs",
+    "name": "Susu Murni (1L)",
+    "price": 35000,
+    "category": "Minuman",
     "rating": 4.0,
     "stock": 35,
     "image": "https://images.unsplash.com/photo-1563636619-e9143da7973b?w=400"
   },
   {
     "id": 5,
-    "name": "Banana Bunch",
-    "price": 1.89,
-    "category": "Fruits & Vegetables",
+    "name": "Keripik Singkong Pedas",
+    "price": 15000,
+    "category": "Cemilan",
     "rating": 4.6,
     "stock": 100,
     "image": "https://images.unsplash.com/photo-1603833665858-e61d17a86224?w=400"
+  },
+  {
+    "id": 6,
+    "name": "Kacang Almond Panggang",
+    "price": 38000,
+    "category": "Cemilan",
+    "rating": 4.7,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=400"
+  },
+  {
+    "id": 7,
+    "name": "Matcha Latte",
+    "price": 28000,
+    "category": "Minuman",
+    "rating": 4.3,
+    "stock": 20,
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=400"
+  },
+  {
+    "id": 8,
+    "name": "Cokelat Dark Premium",
+    "price": 42000,
+    "category": "Cemilan",
+    "rating": 4.9,
+    "stock": 30,
+    "image": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=400"
   }
 ]
